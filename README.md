@@ -10,12 +10,12 @@ Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I pa
 
 My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Business/Data Analyst, or Quality Assurance Tester.
 
-## Skills
+## Projects & Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HomeLab         | <a href="https://github.com/MEH1999/Home-Lab">HomeLab</a>|
-| Data Visualization w Cleaning & Analysis| <a href="https://google.com">COOP Data Cleaning, Visualization, and Analysis </a>|
+| Data Visualization w Cleaning & Analysis| <a href="https://github.com/MEH1999/COOP-DataProject1">COOP Data Cleaning, Visualization, and Analysis </a>|
 | E.R Data Analysis Project |<a href="https://public.tableau.com/app/profile/mohammed.hossain3223/viz/EmergencyRoomDataViz/Dashboard1?publish=yes">Tableau Visualization Board</a> |
 | Quality Testing a E-Commerce Site | QA User Stories & Test Cases |
 
@@ -62,5 +62,3 @@ My Journey in Information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-Incoming 
