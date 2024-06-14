@@ -1,11 +1,7 @@
 ## Hi there 👋
 # Hello, I'm Mohammed E. Hossain, 
-# HomeLab
-Building a ProxMox Homelab with Virtual Machines and be its own Standalone VPN and Remote Desktop Viewer
 
 <a href="https://www.linkedin.com/in/mhossa99/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
 
 Recent Graduate from Towson University with a B.S. Information Technology Degree. I have a passion for Quality Assurance. Data Analysis, and Information Technology with an interest in cybersecurity & system administration work. I started as an IT Analyst intern at Helping Hand for Relief & Development, where I truly applied my skills from my degree to then translate to my next role. I then started working at TEKsystems on a contract with Venable LLP, where I gained invaluable insights into how a law firm's IT operates. I started as a Service Desk Analyst & then was promoted to Senior IT Analyst, where I did data analysis reporting on worker productivity and process improvement. Including, training new team members and updating learning material.
 Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I participated in the program where I gained meaningful connections in the Data Industry paired with the ad agency space.
@@ -15,13 +11,13 @@ Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I pa
 My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Business/Data Analyst, or Quality Assurance Tester.
 
 ## Skills
-[Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HomeLab         | <a href="https://google.com">HomeLab</a>|
-| Data Visualization w Cleaning & Analysis| <a href="https://google.com">Detection Lab</a>|
-| Quality Testing a E-Commerce Site   | SOC Automation Lab|
+| HomeLab         | <a href="https://github.com/MEH1999/Home-Lab">HomeLab</a>|
+| Data Visualization w Cleaning & Analysis| <a href="https://google.com">COOP Data Cleaning, Visualization, and Analysis </a>|
+| E.R Data Analysis Project |<a href="https://public.tableau.com/app/profile/mohammed.hossain3223/viz/EmergencyRoomDataViz/Dashboard1?publish=yes">Tableau Visualization Board</a> |
+| Quality Testing a E-Commerce Site | QA User Stories & Test Cases |
 
 
 ## Tools
@@ -29,9 +25,7 @@ My Journey in Information technology has led me to develop a passion for cyberse
 
 ### Excel
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="![excel](https://github.com/MEH1999/MEH1999/assets/107157121/fa10279a-ca82-44bb-9fad-a9d88613b9ba)" />
 </div>
 
 ### Tableau
