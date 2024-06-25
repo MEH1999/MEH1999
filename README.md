@@ -8,7 +8,7 @@ Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I pa
 
 ## Objective
 
-My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Business/Data Analyst, or Quality Assurance Tester.
+My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Business/Data Analyst, or Quality Assurance Tester. If anything, I would like to ultimately combine each skill from each path to coincide into one role to better my chances of being impactful in my day to day. As each role has skill sets that will tie in with each other. Currently, 🚧 Under Construction 🚧 in terms of detailing out my projects and finalizing them in a way, where it is easily digestible.
 
 ## Projects & Skills
 
