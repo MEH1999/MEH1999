@@ -12,7 +12,7 @@
 
 ## 🛡️ About Me
 
-I'm a **SOC Analyst** based in Maryland who defends managed client environments by day
+I'm a **SOC & Data Analyst** based in Maryland who defends managed client environments by day
 and turns data into decisions by night. I sit at the intersection of two disciplines:
 
 - **Security Operations** — triaging alerts from Microsoft Sentinel & Huntress EDR,
